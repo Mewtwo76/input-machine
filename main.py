@@ -7,7 +7,7 @@ user1 = prydain.User("yournamehere", "memes", 13, "fitMC")
 
 
 
-users = [user1, user2, user3]
+users = [user1]
 currentUser = None
 
 def login():
